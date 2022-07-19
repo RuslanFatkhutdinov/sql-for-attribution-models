@@ -31,6 +31,9 @@ The repository contains SQL queries. The correctness of the queries was checked 
     - `README.md` contains description of queries and steps of calculations
 
 ## Linked articles
+- [Attribution models in Google Analytics](https://support.google.com/analytics/answer/1662518)
+- [Attribution models in Yandex Metrika](https://yandex.ru/support/metrica/reports/attribution-model.html?lang=en)
+- [GA4 to BigQuery Export schema](https://support.google.com/analytics/answer/7029846)
 
 ## Contacts
 - **author**: Fatkhutdinov Ruslan
